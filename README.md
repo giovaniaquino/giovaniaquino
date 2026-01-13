@@ -4,4 +4,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giovaniaquino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauaaraujo-engsoft&layout=compact&custom_title=Tecnologias&langs_count=9&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giovaniaquino&layout=compact&custom_title=Tecnologias&langs_count=9&theme=dracula)
